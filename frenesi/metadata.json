@@ -1,0 +1,5 @@
+{
+  "name": "frenesi",
+  "description": "A professional, dark-themed PostgreSQL studio alternative to Supabase. Features Table management, RLS security policies, Logic editing, and User management.",
+  "requestFramePermissions": []
+}
